@@ -40,7 +40,11 @@ this client
 previous marketing campaign ('failure', 'nonexistent', 'success')
 •Y(binary): has the client subscribed a term deposit? ('yes', 'no')
 
-
+# CONTACT INFORMATION:
+Grace Sigalla (gas83@drexel.edu)
+Meznah Alsulami (mha54@drexel.edu)
+Ifeanyi Osuchukwu (imo27@drexel.edu)
+Christian Ekwomadu (cce49@drexel.edu)
 
 
 
